@@ -1,2 +1,2 @@
-# notebooks
-My Jupyter Notebooks
+# My Jupyter Notebooks
+- `my-electricity-usage.ipynb`
